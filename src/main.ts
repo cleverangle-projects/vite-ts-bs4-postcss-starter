@@ -1,5 +1,5 @@
 import './style.css';
-import 'bootstrap/dist/js/bootstrap.bundle';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 // import "bootstrap/dist/css/bootstrap.min.css";
 
 class VirtualServicesPopup {
